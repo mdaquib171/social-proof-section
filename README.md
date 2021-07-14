@@ -9,8 +9,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mdaquib171/social-proof-section.git)
-- Live Site URL: [Add live site URL here](https://mdaquib171.github.io/social-proof-section/)
+- Solution URL: (https://github.com/mdaquib171/social-proof-section.git)
+- Live Site URL: (https://mdaquib171.github.io/social-proof-section/)
 
 ## My process
 
